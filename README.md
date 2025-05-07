@@ -1,11 +1,12 @@
 # 🚗 Vehicle Listings Data Pipeline & Analysis
-[![Read on Medium](https://img.shields.io/badge/Read_on-Medium-green?logo=medium)](https://medium.com/your-article-link)
+[![Read on Medium](https://img.shields.io/badge/Read_on-Medium-green?logo=medium)]([https://medium.com/your-article-link](https://medium.com/@masaliasaiyam09/driving-data-how-i-built-an-end-to-end-vehicle-analytics-pipeline-with-snowflake-s3-sql-d42e3ff04275))
 
 ## 📊 **Project Overview**
 
 This project builds a **scalable data pipeline** for analyzing \~420,000 vehicle listings scraped from public online marketplaces (similar to Craigslist). The goal is to uncover **pricing trends, risk factors, and actionable insights** for dealerships and online vehicle platforms.
 
 🔗 **Part 1: Data Pipeline & SQL Analysis (this repo)**
+
 🛠️ *Part 2 (Dashboarding) coming soon!*
 
 ---
