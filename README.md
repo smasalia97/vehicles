@@ -1,5 +1,5 @@
 # 🚗 Vehicle Listings Data Pipeline & Analysis
-[![Read on Medium](https://img.shields.io/badge/Read_on-Medium-green?logo=medium)]([https://medium.com/your-article-link](https://medium.com/@masaliasaiyam09/driving-data-how-i-built-an-end-to-end-vehicle-analytics-pipeline-with-snowflake-s3-sql-d42e3ff04275))
+[![Read on Medium](https://img.shields.io/badge/Read_on-Medium-green?logo=medium)](https://medium.com/@masaliasaiyam09/driving-data-how-i-built-an-end-to-end-vehicle-analytics-pipeline-with-snowflake-s3-sql-d42e3ff04275)
 
 ## 📊 **Project Overview**
 
